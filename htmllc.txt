@@ -3,6 +3,7 @@
 <title>hello</title>
 </head>
 <body bgcolor="pink">
-<img src=""C:\Users\lalli\Downloads\htmll.png"" height="100" width="100">
+<img src="C:\Users\lalli\Downloads\htmll.png" height="100" width="100">
 </body>
+
 </html>
